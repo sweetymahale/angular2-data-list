@@ -1,0 +1,13 @@
+.btn-default{
+    padding: 4px 12px;
+    font-size: 12px;
+}
+
+.left-menu{
+    padding: 0px;
+}
+.example-content{
+    background: #fff;
+    border: 1px solid #ccc;
+    padding-bottom: 15px;
+}
